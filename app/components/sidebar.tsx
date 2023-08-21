@@ -121,7 +121,7 @@ export function SideBar(props: { className?: string }) {
           ChatGPT Next
         </div>
         <div className={styles["sidebar-sub-title"]}>
-          JWT's own AI assistant.
+          JWT s own AI assistant.
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
